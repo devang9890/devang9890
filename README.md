@@ -19,7 +19,7 @@
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/devang-singh-258476284">
@@ -40,8 +40,8 @@
 <img align="right" width="380" src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif"/>
 
 - 🔭 Currently building projects using **MERN Stack**
-- 🌱 Improving **DSA & System Design**
-- 👯 Open to collaborating on **Open Source & Web Projects**
+- 🌱 Improving **Data Structures & Algorithms**
+- 👯 Open to collaborating on **Open Source Web Projects**
 - 💬 Ask me about **React, Node.js, MongoDB**
 - 📫 Reach me at **devang9890@gmail.com**
 - ⚡ Fun fact: *The best UI is the one users don’t notice*
@@ -80,12 +80,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devang9890&show_icons=true&theme=dracula" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devang9890&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devang9890&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devang9890&theme=dracula" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang9890&layout=compact&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang9890&layout=compact&theme=dracula" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devang9890&theme=dracula&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devang9890&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -114,3 +114,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
+
